@@ -1,5 +1,5 @@
 {
-    "name": "whitecube/nova-page",
+    "name": "aimalamiri/nova-page",
     "description": "Static pages content management for Laravel Nova",
     "license": "MIT",
     "keywords": [
@@ -29,7 +29,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/nova": "^4.0"
+        "laravel/nova": "^4.0|^5.0"
     },
     "require-dev": {
         "orchestra/testbench": "^8.5",
